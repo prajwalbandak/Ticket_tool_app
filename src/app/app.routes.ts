@@ -1,8 +1,8 @@
 import { Routes } from '@angular/router';
-import { LayoutComponent } from './layout/layout.component';
-import { DashboardComponent } from './dashboard/dashboard.component';
-import { LoginComponent } from './login/login.component';
-import { DepartmentComponent } from './department/department.component';
+import { LayoutComponent } from './Pages/layout/layout.component';
+import { DashboardComponent } from './Pages/dashboard/dashboard.component';
+import { LoginComponent } from './Pages/login/login.component';
+import { DepartmentComponent } from './Pages/department/department.component';
 
 export const routes: Routes = [
 
